@@ -1,0 +1,596 @@
+{
+  "business": {
+    "name": "G&J Construction",
+    "phone": "+18177195116",
+    "category": "paving contractor",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Arlington's Premier Paving Experts",
+      "heroSubline": "G&J Construction delivers unmatched quality and durability. Serving Dallas-Fort Worth with pride and precision.",
+      "aboutTitle": "Decades of Texas Paving Experience",
+      "aboutText": [
+        "G&J Construction started with a simple goal: to provide reliable, long-lasting paving solutions to the people of Arlington and the surrounding areas. Founded by two brothers with a passion for quality craftsmanship, we’ve grown from a small family operation to a trusted name in the DFW paving industry.",
+        "Our approach is straightforward: we use the best materials, employ skilled professionals, and maintain open communication with our clients throughout every project. We believe in doing the job right the first time, ensuring your satisfaction and the longevity of our work.",
+        "We're deeply rooted in the Arlington community. We understand the unique challenges our Texas climate presents, from scorching summers to occasional ice storms, and we build our pavements to withstand it all. We're committed to contributing to the growth and beauty of our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Unwavering Quality",
+          "description": "We use only the highest-grade materials and proven techniques to ensure lasting results."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the specific needs of DFW properties, from soil conditions to weather patterns."
+        },
+        {
+          "title": "Transparent Communication",
+          "description": "We keep you informed every step of the way, providing clear timelines and honest assessments."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work and are dedicated to exceeding your expectations."
+        }
+      ],
+      "ctaHeadline": "Get a Free Paving Estimate!",
+      "ctaSubline": "Contact G&J Construction today to discuss your project needs."
+    },
+    "services": [
+      {
+        "slug": "asphalt-paving",
+        "name": "Asphalt Paving",
+        "shortDescription": "Durable and cost-effective asphalt paving for driveways, parking lots, and more.",
+        "description": "Asphalt paving is a versatile and economical solution for a wide range of applications. At G&J Construction, we specialize in providing top-quality asphalt paving services for residential, commercial, and industrial properties throughout the Dallas-Fort Worth area. Our experienced team handles everything from initial site preparation and grading to asphalt installation and compaction, ensuring a smooth, durable, and long-lasting surface. \n\nWe understand the unique challenges posed by the Texas climate, and we tailor our asphalt mixes to withstand extreme heat, heavy rainfall, and freeze-thaw cycles. Whether you need a new driveway installed in North Arlington, a parking lot resurfaced in Fort Worth, or a private road paved in Plano, we have the expertise and equipment to get the job done right.\n\nWe offer a variety of asphalt paving options, including hot mix asphalt, warm mix asphalt, and porous asphalt. Our team will work with you to determine the best solution for your specific needs and budget. We also provide asphalt repair and maintenance services to extend the life of your existing pavement and prevent costly repairs down the road. With G&J Construction, you can be confident that your asphalt paving project will be completed on time, within budget, and to the highest standards of quality.",
+        "process": [
+          "Step 1: Site Assessment and Preparation",
+          "Step 2: Grading and Base Installation",
+          "Step 3: Asphalt Paving and Compaction",
+          "Step 4: Quality Control and Finishing"
+        ],
+        "benefits": [
+          "Durable and long-lasting",
+          "Cost-effective paving solution",
+          "Smooth and even surface",
+          "Improved property value"
+        ],
+        "faq": [
+          {
+            "question": "How long does asphalt paving last?",
+            "answer": "With proper maintenance, asphalt paving can last 15-20 years or more."
+          },
+          {
+            "question": "What is the best time of year for asphalt paving?",
+            "answer": "The best time for asphalt paving in Texas is typically during the spring or fall, when temperatures are moderate."
+          },
+          {
+            "question": "How much does asphalt paving cost?",
+            "answer": "The cost of asphalt paving varies depending on the size of the project, the type of asphalt used, and site conditions. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-paving",
+        "name": "Concrete Paving",
+        "shortDescription": "Durable and versatile concrete paving for driveways, patios, walkways, and foundations.",
+        "description": "G&J Construction delivers strong, reliable concrete paving solutions for Arlington and beyond. We're experts in pouring and finishing concrete for driveways, patios, walkways, foundations, and more. Concrete offers exceptional durability and versatility, making it an ideal choice for both residential and commercial properties.\n\nOur team understands the importance of proper site preparation, reinforcement, and curing when it comes to concrete paving. We use high-quality concrete mixes and proven techniques to ensure a strong, crack-resistant surface that will withstand the test of time. We take into account the specific soil conditions and drainage needs of your property to prevent future problems.\n\nWhether you're looking to add a decorative concrete patio to your backyard in South Arlington, install a new concrete driveway in Dalworthington Gardens, or pour a concrete foundation for a commercial building in Pantego, G&J Construction has the experience and expertise to handle the job. We offer a variety of concrete finishes, including stamped concrete, exposed aggregate, and broom finish. We can also incorporate decorative elements such as borders, patterns, and colors to create a unique and visually appealing surface. We're committed to delivering concrete paving solutions that are both functional and aesthetically pleasing.",
+        "process": [
+          "Step 1: Excavation and Formwork",
+          "Step 2: Reinforcement Installation",
+          "Step 3: Concrete Pouring and Leveling",
+          "Step 4: Finishing and Curing"
+        ],
+        "benefits": [
+          "Extreme durability",
+          "Versatile design options",
+          "Low maintenance",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How long does concrete paving take to cure?",
+            "answer": "Concrete typically takes 28 days to fully cure, but it can be walked on after 24-48 hours."
+          },
+          {
+            "question": "What is the best way to prevent concrete cracking?",
+            "answer": "Proper site preparation, reinforcement, and curing are essential to preventing concrete cracking."
+          },
+          {
+            "question": "Can concrete be colored or stamped?",
+            "answer": "Yes, concrete can be colored and stamped to create a variety of decorative finishes."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-paving",
+        "name": "Driveway Paving",
+        "shortDescription": "Expert driveway paving services to enhance curb appeal and property value.",
+        "description": "Your driveway is one of the first things people notice about your home. A well-paved driveway not only enhances curb appeal but also provides a safe and convenient surface for parking and accessing your property. G&J Construction specializes in providing top-quality driveway paving services for homeowners throughout the Dallas-Fort Worth area.\n\nWe offer a variety of driveway paving options, including asphalt, concrete, and gravel. Our team will work with you to determine the best solution for your specific needs, budget, and aesthetic preferences. We take into account the size and shape of your driveway, the soil conditions, and the drainage needs to ensure a durable and long-lasting surface.\n\nWhether you're looking to replace an old, cracked driveway or install a brand-new driveway on a new construction project, G&J Construction has the experience and expertise to handle the job. We use high-quality materials and proven techniques to ensure a smooth, even, and visually appealing surface. We also provide driveway repair and maintenance services to extend the life of your existing driveway and prevent costly repairs down the road. Let us help you create a driveway that you'll be proud of for years to come.",
+        "process": [
+          "Step 1: Old Driveway Removal (if applicable)",
+          "Step 2: Site Preparation and Grading",
+          "Step 3: Base Installation and Compaction",
+          "Step 4: Paving and Finishing"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased property value",
+          "Safe and convenient access",
+          "Durable and long-lasting surface"
+        ],
+        "faq": [
+          {
+            "question": "How wide should my driveway be?",
+            "answer": "A standard driveway should be at least 10 feet wide to accommodate a single vehicle. A double-wide driveway should be at least 20 feet wide."
+          },
+          {
+            "question": "What is the best material for a driveway in Texas?",
+            "answer": "Asphalt and concrete are both excellent choices for driveways in Texas, offering durability and resistance to extreme weather conditions."
+          },
+          {
+            "question": "How often should I seal my asphalt driveway?",
+            "answer": "Asphalt driveways should be sealed every 2-3 years to protect them from the elements and prevent cracking."
+          }
+        ]
+      },
+      {
+        "slug": "parking-lot-paving",
+        "name": "Parking Lot Paving",
+        "shortDescription": "Professional parking lot paving solutions for businesses of all sizes.",
+        "description": "A well-maintained parking lot is essential for any business. It provides a safe and convenient space for customers and employees to park their vehicles, while also enhancing the overall appearance of your property. G&J Construction specializes in providing top-quality parking lot paving services for businesses throughout the Dallas-Fort Worth area.\n\nWe offer a full range of parking lot paving services, including asphalt paving, concrete paving, and gravel paving. Our team will work with you to determine the best solution for your specific needs, budget, and traffic volume. We take into account the size and layout of your parking lot, the soil conditions, and the drainage needs to ensure a durable and long-lasting surface.\n\nWhether you're looking to build a new parking lot for a new construction project or resurface an existing parking lot, G&J Construction has the experience and expertise to handle the job. We use high-quality materials and proven techniques to ensure a smooth, even, and visually appealing surface. We also provide parking lot repair and maintenance services, including crack sealing, pothole repair, and line striping, to keep your parking lot in top condition.",
+        "process": [
+          "Step 1: Site Survey and Design",
+          "Step 2: Excavation and Grading",
+          "Step 3: Base Installation and Compaction",
+          "Step 4: Paving and Line Striping"
+        ],
+        "benefits": [
+          "Safe and convenient parking",
+          "Enhanced property appearance",
+          "Increased customer satisfaction",
+          "Durable and long-lasting surface"
+        ],
+        "faq": [
+          {
+            "question": "How thick should asphalt be for a parking lot?",
+            "answer": "Asphalt for a parking lot should typically be 3-4 inches thick for light traffic and 4-6 inches thick for heavy traffic."
+          },
+          {
+            "question": "What is the best way to maintain a parking lot?",
+            "answer": "Regular sweeping, crack sealing, and pothole repair are essential to maintaining a parking lot."
+          },
+          {
+            "question": "How often should a parking lot be restriped?",
+            "answer": "A parking lot should be restriped every 1-2 years to ensure clear and visible parking spaces."
+          }
+        ]
+      },
+      {
+        "slug": "sealcoating",
+        "name": "Sealcoating",
+        "shortDescription": "Protective sealcoating services to extend the life of your asphalt pavement.",
+        "description": "Sealcoating is a cost-effective way to protect your asphalt pavement from the elements and extend its lifespan. At G&J Construction, we offer professional sealcoating services for residential and commercial properties throughout the Dallas-Fort Worth area. Sealcoating acts as a barrier against water, oil, UV rays, and other environmental factors that can damage asphalt over time.\n\nOur team uses high-quality sealcoating products that are specifically designed for the Texas climate. We carefully prepare the asphalt surface by cleaning it thoroughly and repairing any cracks or potholes. Then, we apply a uniform layer of sealcoat using professional-grade equipment. The result is a smooth, black surface that not only looks great but also protects your asphalt pavement from further damage.\n\nSealcoating can prevent costly repairs down the road by preventing water from seeping into the asphalt and causing cracks. It also provides a slip-resistant surface and enhances the appearance of your property. Whether you have a driveway, parking lot, or private road, G&J Construction can provide the sealcoating services you need to keep your asphalt pavement in top condition. We recommend sealcoating every 2-3 years to maximize its benefits.",
+        "process": [
+          "Step 1: Surface Cleaning and Preparation",
+          "Step 2: Crack and Pothole Repair",
+          "Step 3: Sealcoat Application",
+          "Step 4: Curing and Drying"
+        ],
+        "benefits": [
+          "Protects against water damage",
+          "Prevents cracking and potholes",
+          "Extends asphalt lifespan",
+          "Enhances appearance"
+        ],
+        "faq": [
+          {
+            "question": "How long does sealcoating take to dry?",
+            "answer": "Sealcoating typically takes 24-48 hours to dry completely."
+          },
+          {
+            "question": "What is the best time of year to sealcoat?",
+            "answer": "The best time of year to sealcoat in Texas is typically during the spring or fall, when temperatures are moderate."
+          },
+          {
+            "question": "How often should I sealcoat my asphalt?",
+            "answer": "Asphalt should be sealcoated every 2-3 years to maintain its protective properties."
+          }
+        ]
+      },
+      {
+        "slug": "pavement-repair",
+        "name": "Pavement Repair",
+        "shortDescription": "Reliable pavement repair services to fix cracks, potholes, and other damage.",
+        "description": "Damaged pavement can be a safety hazard and a source of frustration. G&J Construction provides prompt and reliable pavement repair services to fix cracks, potholes, and other types of damage. We serve residential, commercial, and industrial properties throughout the Dallas-Fort Worth area. Ignoring pavement damage can lead to more extensive and costly repairs down the road, so it's important to address these issues promptly.\n\nOur team has the expertise and equipment to handle a wide range of pavement repairs, from small crack filling to large-scale pothole patching. We use high-quality materials and proven techniques to ensure a durable and long-lasting repair. We carefully assess the damage and recommend the most appropriate repair solution for your specific situation. We understand the importance of minimizing disruption to your property and completing repairs quickly and efficiently. We also offer preventative maintenance services to help prevent future pavement damage.\n\nWhether you have a cracked driveway in North Arlington, a pothole-ridden parking lot in Fort Worth, or a damaged private road in Plano, G&J Construction is here to help. We're committed to providing quality pavement repair services at competitive prices.",
+        "process": [
+          "Step 1: Damage Assessment",
+          "Step 2: Area Preparation",
+          "Step 3: Repair Material Application",
+          "Step 4: Compaction and Finishing"
+        ],
+        "benefits": [
+          "Improved safety",
+          "Extended pavement lifespan",
+          "Reduced repair costs",
+          "Enhanced property appearance"
+        ],
+        "faq": [
+          {
+            "question": "How quickly should I repair a pothole?",
+            "answer": "Potholes should be repaired as soon as possible to prevent further damage and potential accidents."
+          },
+          {
+            "question": "What is the best way to fill a crack in asphalt?",
+            "answer": "Cracks in asphalt should be filled with a hot-applied crack sealant to prevent water from seeping in."
+          },
+          {
+            "question": "How can I prevent potholes from forming?",
+            "answer": "Regular sealcoating and proper drainage can help prevent potholes from forming."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dallas",
+        "slug": "dallas-tx",
+        "state": "TX",
+        "content": "G&J Construction is proud to offer our paving services to the residents and businesses of Dallas, Texas. From the historic neighborhoods filled with charming 1950s ranch homes to the bustling downtown area and beyond, we are committed to providing top-quality asphalt and concrete solutions. Dallas's hot, humid summers require durable paving materials that can withstand the elements, and G&J Construction has the expertise to deliver just that.\n\nWe understand the unique needs of Dallas property owners, whether it's repairing cracked driveways in established neighborhoods or installing new parking lots for commercial properties. Our team is dedicated to providing exceptional service and lasting results. We utilize the best materials and techniques to ensure your pavement stands the test of time.",
+        "localContext": "We understand the impact of Dallas's hot, humid summers on paving materials and tailor our services accordingly, especially in older neighborhoods with 1950s ranch style homes.",
+        "nearbyAreas": [
+          "Irving",
+          "Garland",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "G&J Construction is delighted to provide paving services to the vibrant city of Fort Worth, Texas. From the historic craftsman bungalows near downtown to the modern developments expanding throughout the city, we offer a comprehensive range of asphalt and concrete solutions. Fort Worth's unique blend of old and new requires a paving contractor that understands the nuances of both.\n\nWe are committed to providing exceptional service and lasting results to Fort Worth residents and businesses. Whether you need a new driveway installed for your craftsman bungalow or a parking lot paved for your commercial property, G&J Construction has the expertise and experience to get the job done right. We understand the climate of Fort Worth and the best materials to use.",
+        "localContext": "We are familiar with the unique architecture of Fort Worth, especially the Craftsman bungalows near downtown, and offer paving solutions that complement the city's character.",
+        "nearbyAreas": [
+          "Arlington",
+          "Benbrook",
+          "Haltom City"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "G&J Construction proudly serves the city of Plano, Texas, offering a full range of paving services to homeowners and businesses alike. With its established subdivisions dating back to the 1980s and 1990s, Plano requires a paving contractor that understands the specific needs of older properties, as well as newer developments.\n\nWe are committed to providing high-quality workmanship and exceptional customer service in Plano. Whether you need to repair a cracked driveway in an established neighborhood, install a new patio for your backyard, or pave a parking lot for your commercial property, G&J Construction has the expertise to handle the job. We understand the Plano climate and use paving materials that hold up well.",
+        "localContext": "We understand the paving needs of Plano's established subdivisions, built primarily in the 1980s and 1990s, and offer solutions tailored to these properties.",
+        "nearbyAreas": [
+          "Richardson",
+          "Allen",
+          "Frisco"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "G&J Construction is excited to offer our paving services to the rapidly growing city of Frisco, Texas. Known for its newer construction from the 2000s to the 2020s, Frisco requires a paving contractor that understands the latest trends and techniques in the industry. We are dedicated to providing top-quality asphalt and concrete solutions to Frisco residents and businesses.\n\nWhether you need a new driveway installed for your newly built home, a parking lot paved for your commercial property, or a decorative patio for your outdoor living space, G&J Construction has the expertise to get the job done right. We understand the Frisco climate and only use paving materials that are designed to withstand the elements.",
+        "localContext": "We are familiar with the newer construction prevalent in Frisco, dating from the 2000s to the 2020s, and offer paving solutions that complement these modern properties.",
+        "nearbyAreas": [
+          "Plano",
+          "Little Elm",
+          "Prosper"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "G&J Construction is pleased to serve the historic city of McKinney, Texas, providing a wide range of paving services to homeowners and businesses. From the charming historic downtown homes to the newer developments expanding throughout the city, McKinney requires a paving contractor that understands the needs of both old and new properties.\n\nWe are committed to providing exceptional service and lasting results to McKinney residents and businesses. Whether you need to repair a cracked driveway on your historic home, install a new patio for your backyard, or pave a parking lot for your commercial property, G&J Construction has the expertise to handle the job. We understand the McKinney climate and use paving materials best fit for the weather.",
+        "localContext": "We appreciate the historic character of McKinney, particularly the homes in the downtown area, and offer paving solutions that respect and enhance their aesthetic appeal.",
+        "nearbyAreas": [
+          "Allen",
+          "Prosper",
+          "Melissa"
+        ]
+      },
+      {
+        "city": "Arlington",
+        "slug": "arlington-tx",
+        "state": "TX",
+        "content": "As a local business, G&J Construction is proud to call Arlington, Texas home. We offer comprehensive paving services to all of Arlington and are committed to providing excellent workmanship, reliable service and affordable rates. Arlington homes and businesses trust us for their paving needs.\n\nWe understand the specific needs of Arlington property owners, from residential driveways to commercial parking lots. Our experienced team uses quality materials and proven techniques to ensure durable, long-lasting results. We are dedicated to exceeding your expectations.",
+        "localContext": "We offer local paving services to residential and commercial properties in Arlington and the surrounding areas.",
+        "nearbyAreas": [
+          "Grand Prairie",
+          "Mansfield",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Grand Prairie",
+        "slug": "grand-prairie-tx",
+        "state": "TX",
+        "content": "G&J Construction extends its paving services to Grand Prairie, Texas, providing top-notch solutions for residential and commercial properties. With a mix of established neighborhoods and growing business districts, Grand Prairie requires a versatile paving contractor capable of handling diverse projects.\n\nWe are dedicated to delivering exceptional results that meet the specific needs of Grand Prairie residents and businesses. Whether it's repairing existing pavement, installing new driveways, or paving parking lots, our experienced team utilizes quality materials and proven techniques to ensure lasting durability. We understand the local climate and its impact on paving materials.",
+        "localContext": "We provide services for Grand Prairie's diverse range of properties, from older residential areas to newer commercial developments, ensuring quality paving solutions for all.",
+        "nearbyAreas": [
+          "Arlington",
+          "Dallas",
+          "Irving"
+        ]
+      },
+      {
+        "city": "Irving",
+        "slug": "irving-tx",
+        "state": "TX",
+        "content": "G&J Construction is pleased to offer our paving services to the city of Irving, Texas. Irving's mix of residential areas and commercial centers requires a contractor that can handle a variety of paving needs, from driveways and patios to parking lots and walkways.\n\nWe pride ourselves on delivering high-quality workmanship and exceptional customer service to the Irving community. Whether you need to repair existing pavement, install a new driveway, or pave a parking lot, G&J Construction has the expertise and experience to get the job done right. We understand that local weather conditions affect paving.",
+        "localContext": "We cater to Irving's diverse paving needs, offering solutions for residential properties, commercial centers, and everything in between.",
+        "nearbyAreas": [
+          "Dallas",
+          "Grand Prairie",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Allen",
+        "slug": "allen-tx",
+        "state": "TX",
+        "content": "G&J Construction is proud to offer paving services to the growing community of Allen, Texas. From residential driveways to commercial parking lots, we provide high-quality asphalt and concrete solutions tailored to the needs of Allen residents and businesses. Allen's blend of established neighborhoods and new developments requires a paving contractor with experience in a variety of projects.\n\nWe are committed to delivering exceptional results that stand the test of time. Our team uses durable materials and proven techniques to ensure that your pavement is both functional and aesthetically pleasing. We understand the impact of the Texas climate on paving materials and take the necessary precautions to ensure longevity.",
+        "localContext": "We understand the paving needs of Allen's mix of established neighborhoods and new developments, providing quality solutions for both residential and commercial properties.",
+        "nearbyAreas": [
+          "Plano",
+          "McKinney",
+          "Fairview"
+        ]
+      },
+      {
+        "city": "Euless",
+        "slug": "euless-tx",
+        "state": "TX",
+        "content": "G&J Construction proudly serves the city of Euless, Texas, offering a full range of paving services to homeowners and businesses. Located near the DFW airport, Euless has a mix of residential areas and commercial properties that require a reliable and experienced paving contractor.\n\nWe are committed to providing high-quality workmanship and exceptional customer service in Euless. Whether you need to repair a cracked driveway, install a new patio, or pave a parking lot for your commercial property, G&J Construction has the expertise to handle the job. We understand the Euless climate and use paving materials that hold up well.",
+        "localContext": "We understand the paving needs of Euless's residential and commercial properties, offering reliable solutions for driveways, patios, parking lots, and more.",
+        "nearbyAreas": [
+          "Arlington",
+          "Irving",
+          "Grapevine"
+        ]
+      },
+      {
+        "city": "Mansfield",
+        "slug": "mansfield-tx",
+        "state": "TX",
+        "content": "G&J Construction is delighted to provide paving services to the growing community of Mansfield, Texas. With its mix of established neighborhoods and new developments, Mansfield requires a paving contractor that understands the specific needs of both residential and commercial properties.\n\nWe are committed to delivering exceptional results that meet the unique needs of Mansfield residents and businesses. Whether it's repairing existing pavement, installing new driveways, or paving parking lots, our experienced team utilizes quality materials and proven techniques to ensure lasting durability. We understand the local climate and its impact on paving materials.",
+        "localContext": "We provide services for Mansfield's diverse range of properties, from established residential areas to newer commercial developments, ensuring quality paving solutions for all.",
+        "nearbyAreas": [
+          "Arlington",
+          "Grand Prairie",
+          "Burleson"
+        ]
+      },
+      {
+        "city": "Richardson",
+        "slug": "richardson-tx",
+        "state": "TX",
+        "content": "G&J Construction is pleased to offer our paving services to the city of Richardson, Texas. With its mix of residential areas, commercial centers, and the Telecom Corridor, Richardson requires a versatile contractor that can handle a variety of paving needs.\n\nWe pride ourselves on delivering high-quality workmanship and exceptional customer service to the Richardson community. Whether you need to repair existing pavement, install a new driveway, or pave a parking lot, G&J Construction has the expertise and experience to get the job done right. We understand how Richardson's weather can affect paving.",
+        "localContext": "We cater to Richardson's diverse paving needs, offering solutions for residential properties, commercial centers, and the high-tech businesses in the Telecom Corridor.",
+        "nearbyAreas": [
+          "Plano",
+          "Garland",
+          "Dallas"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Driveway Paving",
+        "text": "G&J Construction did an outstanding job on our new driveway! They were professional from start to finish, and the quality of their work is exceptional. Our neighbors have all complimented us on how great it looks. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Parking Lot Paving",
+        "text": "We hired G&J Construction to repave our business parking lot. The team was efficient and minimized disruption to our customers. There were a couple minor hiccups with the initial striping layout, but they quickly corrected it to our satisfaction. Overall, a solid job.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 5,
+        "service": "Asphalt Paving",
+        "text": "G&J Construction paved a new access road on our property. The work was completed on time and within budget. They were very responsive to our questions and concerns throughout the entire process. A pleasure to work with!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Sealcoating",
+        "text": "Excellent sealcoating service! Our driveway looks brand new again. The crew was professional and courteous, and they took great care to protect our landscaping. We'll definitely be using G&J Construction again in the future.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Concrete Paving",
+        "text": "G&J Construction poured a new concrete patio for us. The patio looks beautiful, and the quality of the work is top-notch. There was a slight delay due to weather, but they kept us informed every step of the way. Very happy with the results.",
+        "date": "2025-07-05"
+      },
+      {
+        "name": "Kevin L.",
+        "rating": 5,
+        "service": "Pavement Repair",
+        "text": "Fast and reliable pavement repair service! G&J Construction fixed a large pothole in our driveway in no time. The repair is seamless, and you can't even tell there was ever a pothole there. Highly recommend their pavement repair services.",
+        "date": "2025-08-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "G&J Construction | Arlington TX Paving",
+        "description": "Expert paving contractor in Arlington. Asphalt, concrete, driveways, parking lots. Serving Dallas-Fort Worth. Free estimates!"
+      },
+      "about": {
+        "title": "About G&J Construction | Arlington TX Paving",
+        "description": "Learn about G&J Construction, Arlington's trusted paving experts. Quality asphalt and concrete solutions for DFW homes and businesses."
+      },
+      "services": {
+        "title": "G&J Construction | Paving Services Arlington",
+        "description": "Asphalt paving, concrete paving, driveways, parking lots, sealcoating, repair. G&J Construction serving Arlington & DFW."
+      },
+      "contact": {
+        "title": "Contact G&J Construction | Arlington TX Paving",
+        "description": "Contact G&J Construction for a free paving estimate. Serving Arlington, Dallas, Fort Worth, Plano, Frisco, and McKinney."
+      },
+      "reviews": {
+        "title": "G&J Construction | Customer Reviews | Arlington TX",
+        "description": "Read what our customers are saying about G&J Construction. Quality paving services in Arlington, Dallas, and Fort Worth."
+      },
+      "service-areas": {
+        "title": "G&J Construction | Service Areas | DFW Paving",
+        "description": "G&J Construction provides paving services throughout the Dallas-Fort Worth metroplex. Contact us for a free estimate!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "asphalt-paving": "/images/service-asphalt-paving.webp",
+      "concrete-paving": "/images/service-concrete-paving.webp",
+      "driveway-paving": "/images/service-driveway-paving.webp",
+      "parking-lot-paving": "/images/service-parking-lot-paving.webp",
+      "sealcoating": "/images/service-sealcoating.webp",
+      "pavement-repair": "/images/service-pavement-repair.webp"
+    },
+    "servicesResponsive": {
+      "asphalt-paving": {
+        "src": "/images/service-asphalt-paving.webp",
+        "srcset": "/images/service-asphalt-paving-400w.webp 400w, /images/service-asphalt-paving-800w.webp 800w, /images/service-asphalt-paving-1200w.webp 1200w, /images/service-asphalt-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-paving": {
+        "src": "/images/service-concrete-paving.webp",
+        "srcset": "/images/service-concrete-paving-400w.webp 400w, /images/service-concrete-paving-800w.webp 800w, /images/service-concrete-paving-1200w.webp 1200w, /images/service-concrete-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-paving": {
+        "src": "/images/service-driveway-paving.webp",
+        "srcset": "/images/service-driveway-paving-400w.webp 400w, /images/service-driveway-paving-800w.webp 800w, /images/service-driveway-paving-1200w.webp 1200w, /images/service-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "parking-lot-paving": {
+        "src": "/images/service-parking-lot-paving.webp",
+        "srcset": "/images/service-parking-lot-paving-400w.webp 400w, /images/service-parking-lot-paving-800w.webp 800w, /images/service-parking-lot-paving-1200w.webp 1200w, /images/service-parking-lot-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sealcoating": {
+        "src": "/images/service-sealcoating.webp",
+        "srcset": "/images/service-sealcoating-400w.webp 400w, /images/service-sealcoating-800w.webp 800w, /images/service-sealcoating-1200w.webp 1200w, /images/service-sealcoating.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pavement-repair": {
+        "src": "/images/service-pavement-repair.webp",
+        "srcset": "/images/service-pavement-repair-400w.webp 400w, /images/service-pavement-repair-800w.webp 800w, /images/service-pavement-repair-1200w.webp 1200w, /images/service-pavement-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
